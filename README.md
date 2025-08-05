@@ -3,8 +3,7 @@
 
 This is a simple and fun implementation of the classic Snake Game using **Python** and **Pygame**. Eat food, grow your snake, and avoid hitting yourself or the walls. The game ends when the snake collides with itself or the boundaries.
 
-## 📸 Screenshots
-> *(Add screenshots here if you want)*
+
 
 ## 🚀 Features
 
